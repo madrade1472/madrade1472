@@ -4,7 +4,7 @@
 
 ## Quem sou eu??
 - 💻 Analista de Dados / Engenheiro de Dados
-- 🎓 Bacharel em Engenharia de Telecomunicações - UNIFIEO.
+- 🎓 Bacharel em Redes de Computadores - UNIFIEO.
 - 🎓 Tecnologia em Redes de Computadores - Anhanguera.
 - 🎓 MBA - Gestão de Projetos - Anhembi Morumbi
 - 🎓 Pós Graduação - Engenharia de Dados - Anhembi Morumbi
