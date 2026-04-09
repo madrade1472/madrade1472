@@ -101,28 +101,6 @@ class MarcusAndrade:
 
 ---
 
-## 🏗️ Projetos em Destaque
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| [🔶 AWS Data Foundation](https://github.com/madrade1472/aws-foundation-tf) | Data Lake Medallion + Lake Formation + CI/CD AWS | Terraform · AWS · Python |
-| [❄️ Snowflake Foundation](https://github.com/madrade1472/snowflake-foundation) | Data Warehouse Medallion + RBAC + Snowpark | Terraform · Snowflake · GCP |
-| [🌍 GCP Data Foundation](https://github.com/madrade1472/fundacao-gcp) | Data Lake GCS + Dataproc + BigQuery | Terraform · GCP · Python |
-| [🤖 Projeto Omie](https://github.com/madrade1472/projeto-omie) | Pipeline BigQuery + Agente IA com Claude | Python · BigQuery · DuckDB |
-| [📱 FocalData Front](https://github.com/madrade1472/focaldata-demanda-front) | Frontend de demandas com AI Terminal | PHP · Laravel · OpenAI |
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madrade1472&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
