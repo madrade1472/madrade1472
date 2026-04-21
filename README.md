@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Engenheiro+de+Dados+%7C+HVAR;Arquiteto+Cloud+AWS+%7C+GCP+%7C+Snowflake;Infraestrutura+como+C%C3%B3digo+com+Terraform;Apaixonado+por+dados+e+arquitetura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Engenheiro+de+Dados+%7C;Arquiteto+Cloud+AWS+%7C+GCP+%7C+Snowflake;Infraestrutura+como+C%C3%B3digo+com+Terraform;Apaixonado+por+dados+e+arquitetura)](https://git.io/typing-svg)
 
 </div>
 
