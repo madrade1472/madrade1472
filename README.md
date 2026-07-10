@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Marcus%20Andrade&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IaC&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Marcus%20Andrade&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Certified%20Cloud%20Architect%20%7C%20IaC&descAlignY=55&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Engenheiro+de+Dados+%7C;Arquiteto+Cloud+AWS+%7C+GCP+%7C+Snowflake;Infraestrutura+como+C%C3%B3digo+com+Terraform;Apaixonado+por+dados+e+arquitetura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Engenheiro+de+Dados+%7C;Arquiteto+Cloud+Certificado;Databricks+%7C+AWS+%7C+Google+Cloud+Certified;Arquiteto+Cloud+AWS+%7C+GCP+%7C+Snowflake;Infraestrutura+como+C%C3%B3digo+com+Terraform;Apaixonado+por+dados+e+arquitetura)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,9 +26,17 @@ class MarcusAndrade:
     @property
     def education(self):
         return [
-            "🎓 Tecnologia em Redes — Anhanguera",
-            "🎓 MBA Gestão de Projetos — Anhembi Morumbi",
-            "🎓 Pós-Grad. Engenharia de Dados — Anhembi Morumbi",
+            "🎓 Tecnologia em Redes - Anhanguera",
+            "🎓 MBA Gestão de Projetos - Anhembi Morumbi",
+            "🎓 Pós-Grad. Engenharia de Dados - Anhembi Morumbi",
+        ]
+
+    @property
+    def certifications(self):
+        return [
+            "Databricks Certified Data Engineer Professional",
+            "AWS Certified Solutions Architect Professional",
+            "Google Cloud Professional Cloud Architect",
         ]
 
     @property
@@ -81,6 +89,24 @@ class MarcusAndrade:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+---
+
+## 🏅 Certificações
+
+<div align="center">
+
+<img src="assets/certs.gif" alt="Certificacoes Cloud Architect" width="72%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Databricks-Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</div>
 
 ---
 
