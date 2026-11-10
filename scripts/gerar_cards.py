@@ -172,9 +172,9 @@ def card_commits(d, t):
 
     corpo = f"""
 <g class="entra">
-  <text x="32" y="48" class="s m" font-size="12" letter-spacing="2">COMMITS DESDE {desde}</text>
+  <text x="32" y="48" class="s m" font-size="12" letter-spacing="2">TOTAL DE COMMITS</text>
   <text x="30" y="122" font-family="{FONTE}" font-size="72" font-weight="800" fill="url(#g)" letter-spacing="-2">{fmt(total)}</text>
-  <text x="32" y="152" class="s" font-size="13">commits em {len(d['anos'])} anos de GitHub</text>
+  <text x="32" y="152" class="s" font-size="13">na vida toda, desde {desde}</text>
 </g>
 <g class="entra" style="animation-delay:.15s">{faixa_anos(d, t, 32, 172, 270)}</g>
 <line x1="306" y1="32" x2="306" y2="{h - 32}" stroke="{t['borda']}"/>

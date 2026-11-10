@@ -16,7 +16,7 @@
 <rect x=".5" y=".5" width="409" height="209" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 
 <text x="24" y="40" class="s m entra" font-size="12" letter-spacing="2">ÚLTIMOS 12 MESES</text>
-<text x="386" y="40" class="t entra" font-size="13" font-weight="600" text-anchor="end">419 contribuições</text>
+<text x="386" y="40" class="t entra" font-size="13" font-weight="600" text-anchor="end">422 contribuições</text>
 <line x1="24" y1="168" x2="386" y2="168" stroke="#eaeef2"/>
 <line x1="24" y1="68" x2="386" y2="68" stroke="#eaeef2" stroke-dasharray="3 4"/>
 <line x1="24" y1="118.0" x2="386" y2="118.0" stroke="#eaeef2" stroke-dasharray="3 4"/>
@@ -38,11 +38,11 @@
         style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.25s forwards"><title>mar/2026: 0</title></rect>
   <text x="129.6" y="186" class="s m" font-size="10" text-anchor="middle">mar</text>
 </g><g>
-  <rect class="cresce" x="147.7" y="133.2" width="24.2" height="34.8" rx="4" fill="url(#g)"
+  <rect class="cresce" x="147.7" y="133.7" width="24.2" height="34.3" rx="4" fill="url(#g)"
         style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.30s forwards"><title>abr/2026: 70</title></rect>
   <text x="159.8" y="186" class="s m" font-size="10" text-anchor="middle">abr</text>
 </g><g>
-  <rect class="cresce" x="177.8" y="137.7" width="24.2" height="30.3" rx="4" fill="url(#g)"
+  <rect class="cresce" x="177.8" y="138.1" width="24.2" height="29.9" rx="4" fill="url(#g)"
         style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.35s forwards"><title>mai/2026: 61</title></rect>
   <text x="189.9" y="186" class="s m" font-size="10" text-anchor="middle">mai</text>
 </g><g>
@@ -50,7 +50,7 @@
         style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.40s forwards"><title>jun/2026: 0</title></rect>
   <text x="220.1" y="186" class="s m" font-size="10" text-anchor="middle">jun</text>
 </g><g>
-  <rect class="cresce" x="238.2" y="159.5" width="24.2" height="8.5" rx="4" fill="url(#g)"
+  <rect class="cresce" x="238.2" y="159.7" width="24.2" height="8.3" rx="4" fill="url(#g)"
         style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.45s forwards"><title>jul/2026: 17</title></rect>
   <text x="250.3" y="186" class="s m" font-size="10" text-anchor="middle">jul</text>
 </g><g>
@@ -62,12 +62,12 @@
         style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.55s forwards"><title>set/2026: 2</title></rect>
   <text x="310.6" y="186" class="s m" font-size="10" text-anchor="middle">set</text>
 </g><g>
-  <rect class="cresce" x="328.7" y="134.7" width="24.2" height="33.3" rx="4" fill="url(#g)"
+  <rect class="cresce" x="328.7" y="135.2" width="24.2" height="32.8" rx="4" fill="url(#g)"
         style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.60s forwards"><title>out/2026: 67</title></rect>
   <text x="340.8" y="186" class="s m" font-size="10" text-anchor="middle">out</text>
 </g><g>
   <rect class="cresce" x="358.8" y="68.0" width="24.2" height="100.0" rx="4" fill="url(#g)"
-        style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.65s forwards"><title>nov/2026: 201</title></rect>
+        style="transform-origin:0 168px;transform:scaleY(0);animation:sobe .9s cubic-bezier(.2,.7,.2,1) 0.65s forwards"><title>nov/2026: 204</title></rect>
   <text x="370.9" y="186" class="s m" font-size="10" text-anchor="middle">nov</text>
 </g>
 </svg>
