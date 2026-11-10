@@ -21,11 +21,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Sem o METRICS_TOKEN o GITHUB_TOKEN só enxerga repositórios públicos e os
+      # números caem, então os cards de estatística só são regerados com o token.
       - name: Gera cards de estatisticas
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: python3 scripts/gerar_cards.py
+        run: |
+          if [ -z "$METRICS_TOKEN" ]; then
+            echo "::warning::METRICS_TOKEN ausente, cards de estatistica mantidos como estao"
+          else
+            python3 scripts/gerar_cards.py
+          fi
 
       - name: Gera a cobrinha de contribuicoes
         uses: Platane/snk/svg-only@v3

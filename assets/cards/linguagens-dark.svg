@@ -17,39 +17,39 @@
 
 <text x="24" y="40" class="s m entra" font-size="12" letter-spacing="2">LINGUAGENS MAIS USADAS</text>
 <clipPath id="c"><rect x="24" y="62" width="362" height="10" rx="5"/></clipPath>
-<g clip-path="url(#c)"><g class="barra" style="transform-origin:24px 0;animation:cresce 1.1s cubic-bezier(.2,.7,.2,1) forwards;transform:scaleX(0)"><rect x="24.0" y="62" width="247.2" height="10" fill="#3572A5"><title>Python</title></rect><rect x="271.2" y="62" width="61.6" height="10" fill="#f1e05a"><title>JavaScript</title></rect><rect x="332.8" y="62" width="42.6" height="10" fill="#e34c26"><title>HTML</title></rect><rect x="375.3" y="62" width="4.3" height="10" fill="#012456"><title>PowerShell</title></rect><rect x="379.6" y="62" width="3.5" height="10" fill="#663399"><title>CSS</title></rect><rect x="383.1" y="62" width="1.5" height="10" fill="#384d54"><title>Dockerfile</title></rect><rect x="384.4" y="62" width="1.5" height="10" fill="#89e051"><title>Shell</title></rect><rect x="385.6" y="62" width="1.5" height="10" fill="#8b949e"><title>Outras</title></rect></g></g>
+<g clip-path="url(#c)"><g class="barra" style="transform-origin:24px 0;animation:cresce 1.1s cubic-bezier(.2,.7,.2,1) forwards;transform:scaleX(0)"><rect x="24.0" y="62" width="299.8" height="10" fill="#3572A5"><title>Python</title></rect><rect x="323.8" y="62" width="26.5" height="10" fill="#f1e05a"><title>JavaScript</title></rect><rect x="350.4" y="62" width="12.4" height="10" fill="#3178c6"><title>TypeScript</title></rect><rect x="362.8" y="62" width="4.4" height="10" fill="#e34c26"><title>HTML</title></rect><rect x="367.2" y="62" width="4.3" height="10" fill="#4F5D95"><title>PHP</title></rect><rect x="371.5" y="62" width="4.3" height="10" fill="#663399"><title>CSS</title></rect><rect x="375.8" y="62" width="2.7" height="10" fill="#00ADD8"><title>Go Template</title></rect><rect x="378.5" y="62" width="7.5" height="10" fill="#8b949e"><title>Outras</title></rect></g></g>
 <style>@keyframes cresce{to{transform:scaleX(1)}}</style>
 <g class="entra" style="animation-delay:0.20s">
   <circle cx="29" cy="100" r="5" fill="#3572A5"/>
   <text x="41" y="104" class="t" font-size="13">Python</text>
-  <text x="194" y="104" class="s m" font-size="11.5" text-anchor="end">68.3%</text>
+  <text x="194" y="104" class="s m" font-size="11.5" text-anchor="end">82.8%</text>
 </g><g class="entra" style="animation-delay:0.26s">
   <circle cx="214" cy="100" r="5" fill="#f1e05a"/>
   <text x="226" y="104" class="t" font-size="13">JavaScript</text>
-  <text x="379" y="104" class="s m" font-size="11.5" text-anchor="end">17.0%</text>
+  <text x="379" y="104" class="s m" font-size="11.5" text-anchor="end">7.3%</text>
 </g><g class="entra" style="animation-delay:0.32s">
-  <circle cx="29" cy="126" r="5" fill="#e34c26"/>
-  <text x="41" y="130" class="t" font-size="13">HTML</text>
-  <text x="194" y="130" class="s m" font-size="11.5" text-anchor="end">11.8%</text>
+  <circle cx="29" cy="126" r="5" fill="#3178c6"/>
+  <text x="41" y="130" class="t" font-size="13">TypeScript</text>
+  <text x="194" y="130" class="s m" font-size="11.5" text-anchor="end">3.4%</text>
 </g><g class="entra" style="animation-delay:0.38s">
-  <circle cx="214" cy="126" r="5" fill="#012456"/>
-  <text x="226" y="130" class="t" font-size="13">PowerShell</text>
+  <circle cx="214" cy="126" r="5" fill="#e34c26"/>
+  <text x="226" y="130" class="t" font-size="13">HTML</text>
   <text x="379" y="130" class="s m" font-size="11.5" text-anchor="end">1.2%</text>
 </g><g class="entra" style="animation-delay:0.44s">
-  <circle cx="29" cy="152" r="5" fill="#663399"/>
-  <text x="41" y="156" class="t" font-size="13">CSS</text>
-  <text x="194" y="156" class="s m" font-size="11.5" text-anchor="end">1.0%</text>
+  <circle cx="29" cy="152" r="5" fill="#4F5D95"/>
+  <text x="41" y="156" class="t" font-size="13">PHP</text>
+  <text x="194" y="156" class="s m" font-size="11.5" text-anchor="end">1.2%</text>
 </g><g class="entra" style="animation-delay:0.50s">
-  <circle cx="214" cy="152" r="5" fill="#384d54"/>
-  <text x="226" y="156" class="t" font-size="13">Dockerfile</text>
-  <text x="379" y="156" class="s m" font-size="11.5" text-anchor="end">0.4%</text>
+  <circle cx="214" cy="152" r="5" fill="#663399"/>
+  <text x="226" y="156" class="t" font-size="13">CSS</text>
+  <text x="379" y="156" class="s m" font-size="11.5" text-anchor="end">1.2%</text>
 </g><g class="entra" style="animation-delay:0.56s">
-  <circle cx="29" cy="178" r="5" fill="#89e051"/>
-  <text x="41" y="182" class="t" font-size="13">Shell</text>
-  <text x="194" y="182" class="s m" font-size="11.5" text-anchor="end">0.3%</text>
+  <circle cx="29" cy="178" r="5" fill="#00ADD8"/>
+  <text x="41" y="182" class="t" font-size="13">Go Template</text>
+  <text x="194" y="182" class="s m" font-size="11.5" text-anchor="end">0.8%</text>
 </g><g class="entra" style="animation-delay:0.62s">
   <circle cx="214" cy="178" r="5" fill="#8b949e"/>
   <text x="226" y="182" class="t" font-size="13">Outras</text>
-  <text x="379" y="182" class="s m" font-size="11.5" text-anchor="end">0.1%</text>
+  <text x="379" y="182" class="s m" font-size="11.5" text-anchor="end">2.1%</text>
 </g>
 </svg>
